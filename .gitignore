@@ -1,0 +1,5 @@
+misc/
+output/
+results/
+slurm/
+**/__pycache__/
